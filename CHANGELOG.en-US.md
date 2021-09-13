@@ -20,7 +20,8 @@ timeline: true
 `2021-09-13`
 
 - 🆕 Pagination supports `selectComponentClass` prop [#32132](https://github.com/ant-design/ant-design/pull/32132) [@JounQin](https://github.com/JounQin)
-- 🐞 Fix Cascader missing `popupClassName` and `popupPlacement` props, Tree and TreeSelect support `placement`. [#32143](https://github.com/ant-design/ant-design/pull/32143)
+- 🆕 Tree and TreeSelect support `placement`. [#32143](https://github.com/ant-design/ant-design/pull/32143)
+- 🐞 Fix Cascader missing `popupClassName` and `popupPlacement` props. [#32143](https://github.com/ant-design/ant-design/pull/32143)
 - 🐞 Fix return element of `getPopupContainer` in ConfigProvider is not used as a container when calling `message.useMessage`. [#31939](https://github.com/ant-design/ant-design/pull/31939) [@DaoxingHuang](https://github.com/DaoxingHuang)
 - 🐞 Fix `pagination.className` not working in Table. [#32131](https://github.com/ant-design/ant-design/pull/32131) [@JounQin](https://github.com/JounQin)
 - 🐞 Fix `defaultPickerValue` not working in RangePicker. [#32107](https://github.com/ant-design/ant-design/pull/32107) [@thommesZip](https://github.com/thommesZip)

@@ -20,7 +20,8 @@ timeline: true
 `2021-09-13`
 
 - 🆕 Pagination 支持定制 `selectComponentClass` [#32132](https://github.com/ant-design/ant-design/pull/32132) [@JounQin](https://github.com/JounQin)
-- 🐞 修复 Cascader 中 `popupClassName` 与 `popupPlacement` 属性无效问题，Tree 与 TreeSelect 支持 `placement` 属性。[#32143](https://github.com/ant-design/ant-design/pull/32143)
+- 🆕 Tree 与 TreeSelect 支持 `placement` 属性。[#32143](https://github.com/ant-design/ant-design/pull/32143)
+- 🐞 修复 Cascader 中 `popupClassName` 与 `popupPlacement` 属性无效问题。[#32143](https://github.com/ant-design/ant-design/pull/32143)
 - 🐞 修复调用 `message.useMessage` 时未使用 ConfigProvider 中的 `getPopupContainer` 返回元素作为容器的问题。[#31939](https://github.com/ant-design/ant-design/pull/31939) [@DaoxingHuang](https://github.com/DaoxingHuang)
 - 🐞 修复 Table 中 `pagination.className` 不生效的问题。[#32131](https://github.com/ant-design/ant-design/pull/32131) [@JounQin](https://github.com/JounQin)
 - 🐞 修复 RangePicker 的 `defaultPickerValue` 不生效的问题。[#32107](https://github.com/ant-design/ant-design/pull/32107) [@thommesZip](https://github.com/thommesZip)
