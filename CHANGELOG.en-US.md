@@ -30,7 +30,7 @@ timeline: true
 - 💄 Improve small size Image to ellipsis preview text. [#29900](https://github.com/ant-design/ant-design/pull/29900) [@drizzlesconsin](https://github.com/drizzlesconsin)
 - 🇬🇪 Add Georgian locale. [#32106](https://github.com/ant-design/ant-design/pull/32106) [@PrimulaX](https://github.com/PrimulaX)
 - TypeScript
-  - 🤖 Fix `shape` and `type` types for Button. [#32004](https://github.com/ant-design/ant-design/pull/32004) [@jaredleechn](https://github.com/jaredleechn)
+  - 🤖 Fix `type` type for Button. [#32004](https://github.com/ant-design/ant-design/pull/32004) [@jaredleechn](https://github.com/jaredleechn)
   - 🤖 Improve type `locale` of Pagination. [#32128](https://github.com/ant-design/ant-design/pull/32128) [@JounQin](https://github.com/JounQin)
 
 ## 4.17.0-alpha.2

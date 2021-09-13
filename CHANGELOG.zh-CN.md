@@ -30,7 +30,7 @@ timeline: true
 - 💄 优化 Image 在小尺寸下省略预览文本。[#29900](https://github.com/ant-design/ant-design/pull/29900) [@drizzlesconsin](https://github.com/drizzlesconsin)
 - 🇬🇪 添加格鲁吉亚语言环境。[#32106](https://github.com/ant-design/ant-design/pull/32106) [@PrimulaX](https://github.com/PrimulaX)
 - TypeScript
-  - 🤖 修复 Button 的 `shape` 和 `type` 的 TS 类型定义。[#32004](https://github.com/ant-design/ant-design/pull/32004) [@jaredleechn](https://github.com/jaredleechn)
+  - 🤖 修复 Button 的 `type` 的 TS 类型定义。[#32004](https://github.com/ant-design/ant-design/pull/32004) [@jaredleechn](https://github.com/jaredleechn)
   - 🤖 完备 Pagination 的 `locale` TS 类型定义。[。[#32128](https://github.com/ant-design/ant-design/pull/32128) [@JounQin](https://github.com/JounQin)
 
 ## 4.17.0-alpha.2
